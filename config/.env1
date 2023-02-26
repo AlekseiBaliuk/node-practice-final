@@ -1,6 +1,0 @@
-PORT=5000
-DB_STRING=mongodb+srv://andrey:qwe123@mongoexplore.mhed26l.mongodb.net/db_films?retryWrites=true&w=majority
-DENYS=seledka
-ANDREY=pizza
-SEND_EMAIL_USER=aleksred.b@outlook.com
-SEND_EMAIL_PASSWORD=Avrillavigne25
